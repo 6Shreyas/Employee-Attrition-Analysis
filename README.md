@@ -1,5 +1,3 @@
-Employee-Attrition-Analysis
-Understanding and predicting employee turnover using machine learning
 # Employee Attrition Analysis
 
 Project Overview
@@ -28,7 +26,7 @@ Models Used
 - Logistic Regression
 - Random Forest Classifier
 
-## 📈 Model Evaluation
+Model Evaluation
 Models were evaluated using:
 - Accuracy
 - Recall
@@ -52,5 +50,3 @@ The project successfully analyzes employee turnover and predicts attrition using
 machine learning models. The insights can help HR departments take proactive
 retention measures and reduce employee turnover.
 
-Author
-Shrey
